@@ -1,0 +1,67 @@
+body{
+    background-color: gray;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 8em;
+}
+
+#ballBody{
+    background-color: black;
+
+    width: 30em;
+    height: 30em;
+
+    border-radius: 20em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+#ballLogo{          
+    background-color: white;
+    text-align: center;
+    width: 1em;
+    font-size: 7em;
+
+    margin: 0em 0em 0.1em 1.67em;
+
+    border-radius: 10em;
+
+    user-select: none
+}
+
+#tellings{
+    width: 25em;
+
+    margin-top: 3em;
+    margin-left: 3em;
+    border-radius: 10em;
+}
+
+
+p{
+    background-color: white;
+    text-align: center;
+
+    padding: 1em 0em 1em 0em;
+
+    border-radius: 1em;
+}
+
+button {
+    margin-left: 12em;
+
+    background-color: white;
+    border: none;
+    border-radius: 10em;
+
+    height: 4em;
+}
+
+#btn:hover{
+    background-color: gray;
+    cursor: pointer;
+}
