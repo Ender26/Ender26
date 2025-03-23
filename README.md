@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ender26
+- 👋 Hi, I’m Todor
 - 👀 I’m interested in programming, speedsolving Rubik's cubes, chess, anime 
 - 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on websites
